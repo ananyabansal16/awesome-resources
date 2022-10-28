@@ -729,6 +729,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## Javascript
 
+- :cheatsheet: [JavaScripts cheatsheet](https://websitesetup.org/javascript-cheat-sheet/)
 - :video_camera: [Learn How JavaScripts works Behind the Scene by Akshay Saini](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 - :books: [CoderslangJS](https://js.coderslang.com/)
 - :bulb: [Beginner JavaScript Notes + Reference by Wes Bos](https://wesbos.com/javascript)
@@ -989,6 +990,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## React
 
+- :cheatsheet: [Reactjs cheatsheet](https://devhints.io/react)
 - :books: [React Tutorial - W3Schools](https://www.w3schools.com/react/)
 - :books: [Egghead.io: Start Learning React](https://egghead.io/courses/start-learning-react)
 - :file_folder: [React Official Tutorial](https://facebook.github.io/react/docs/tutorial.html)
